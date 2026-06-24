@@ -244,8 +244,8 @@ const poppins = Poppins({
 
 **Shivaay Enterprises**  
 Proprietor: Satish Rai  
-Phone: 73899-22337 | 87702-24807  
-Email: contact@shivaayenterprises.com
+Phone: 73899-22337  
+Email: enterpriseshivay09@gmail.com
 
 ## 📄 License
 
